@@ -1,0 +1,10 @@
+.dart_tool/
+build/
+.idea/
+.vscode/
+.packages
+.pub-cache/
+.pub/
+*.log
+.DS_Store
+Thumbs.db
